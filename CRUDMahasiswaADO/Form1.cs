@@ -87,5 +87,10 @@ namespace CRUDMahasiswaADO
 
         }
 
+        private void btnConnect_Click_1(object sender, EventArgs e)
+        {
+            ConnectDatabase();
+        }
+
      
 }
